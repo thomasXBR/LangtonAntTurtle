@@ -25,4 +25,4 @@ Despite these simple local rules, the simulation goes through three distinct pha
 * **Python 3.x** (no external dependencies required—uses only `turtle` and `random` from the standard library)
 
 ```bash
-python langtons_ant.py
+python formiga.py
